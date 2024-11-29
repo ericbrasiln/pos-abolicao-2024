@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_17-24-33
+- Termo da busca: "centro civico sete de setembro";
+- Acervo: Correio_Da_Noite_Jornal_Independente_RJ_1913;
+- Total de ocorrências: 25;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=830135&Pesq="centro%20civico%20sete%20de%20setembro"

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_12-43-25
+- Termo da busca: "conego olympio de castro";
+ - Acervo: Beira-Mar : Copacabana  Ipanema  Leme (RJ) - 1922 a 1955;
+- Total de ocorrências: 4;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=067822&Pesq="conego%20olympio%20de%20castro"

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_18-31-44
+- Termo da busca: "centro civico sete de setembro";
+- Acervo: O_Jornal_RJ_1919;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=110523_01&Pesq="centro%20civico%20sete%20de%20setembro"

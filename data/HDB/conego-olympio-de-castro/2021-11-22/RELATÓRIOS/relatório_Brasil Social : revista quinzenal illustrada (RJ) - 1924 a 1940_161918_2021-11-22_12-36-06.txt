@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_12-36-06
+- Termo da busca: "conego olympio de castro";
+ - Acervo: Brasil Social : revista quinzenal illustrada (RJ) - 1924 a 1940;
+- Total de ocorrências: 6;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=161918&Pesq="conego%20olympio%20de%20castro"

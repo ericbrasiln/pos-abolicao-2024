@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_10-17-12
+- Termo da busca: "conego olympio de castro";
+ - Acervo: Jornal do Commercio (RJ) - 1920 a 1929;
+- Total de ocorrências: 94;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=364568_11&Pesq="conego%20olympio%20de%20castro"

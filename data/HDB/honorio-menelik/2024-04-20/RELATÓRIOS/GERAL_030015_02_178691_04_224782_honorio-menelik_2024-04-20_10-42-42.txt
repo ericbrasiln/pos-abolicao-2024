@@ -1,0 +1,5 @@
+=-=-=-=-=-Relatório geral da raspagem da HDB com lista de acervos-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_10-42-42;
+- Termo da busca: honorio-menelik;
+- Total de acervos: 3;
+- Lista de acervos: ['030015_02', '178691_04', '224782']

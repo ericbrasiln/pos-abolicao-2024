@@ -1,0 +1,9 @@
+=-=-=-=-=-Relatório geral da raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_11-17-20;
+- Local da busca: RJ;
+- Período da busca: 1900 - 1909;
+- Periódico da busca: Todos;
+- Termo da busca: "centro civico sete de setembro";
+- Lista de acervos com ocorrências (máx. de 100) e quantidade de ocorrências: ['"111988","1"'];
+- Total de acervos com ocorrências (máx. de 100): 1
+- Informações adicionais: {'Total de páginas analisadas': '2.211.929', 'Total de Acervos analisados': '305', 'Total de ocorrências encontradas': '1', 'Número de páginas para uma ocorrência': 2211929.0}

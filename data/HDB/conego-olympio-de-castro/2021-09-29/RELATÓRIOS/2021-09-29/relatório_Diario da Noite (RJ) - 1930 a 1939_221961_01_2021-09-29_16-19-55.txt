@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-09-29_16-19-55
+- Termo da busca: "conego olympio de castro";
+ - Acervo: Diario da Noite (RJ) - 1930 a 1939;
+- Total de ocorrências: 61;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=221961_01&Pesq="conego%20olympio%20de%20castro"

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_00-14-49
+- Termo da busca: "honorio menelik";
+- Acervo: Lanterna_Diario_Vespertino_RJ_1917_a_1918;
+- Total de ocorrências: 6;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=830291&Pesq="honorio%20menelik"

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_10-42-42
+- Termo da busca: "honorio menelik";
+- Acervo: Jornal_do_Brasil_RJ_1900_a_1909;
+- Total de ocorrências: 8;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=030015_02&Pesq="honorio%20menelik"

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_12-34-37
+- Termo da busca: "conego olympio de castro";
+ - Acervo: O Paiz (RJ) - 1910 a 1919;
+- Total de ocorrências: 7;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=178691_04&Pesq="conego%20olympio%20de%20castro"

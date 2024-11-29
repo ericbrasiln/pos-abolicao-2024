@@ -1,0 +1,4 @@
+=-=-=-=-=-Relatório de erro da raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_11-55-14;
+- Termo da busca: conego-olympio-de-castro;
+- Acervo com ocorrências que não pode ser acessado: 178691_06;

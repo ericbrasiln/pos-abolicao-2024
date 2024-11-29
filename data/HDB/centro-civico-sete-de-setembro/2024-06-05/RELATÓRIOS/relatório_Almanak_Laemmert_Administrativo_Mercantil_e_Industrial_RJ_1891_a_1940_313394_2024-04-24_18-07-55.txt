@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_18-07-55
+- Termo da busca: "centro civico sete de setembro";
+- Acervo: Almanak_Laemmert_Administrativo_Mercantil_e_Industrial_RJ_1891_a_1940;
+- Total de ocorrências: 13;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=313394&Pesq="centro%20civico%20sete%20de%20setembro"

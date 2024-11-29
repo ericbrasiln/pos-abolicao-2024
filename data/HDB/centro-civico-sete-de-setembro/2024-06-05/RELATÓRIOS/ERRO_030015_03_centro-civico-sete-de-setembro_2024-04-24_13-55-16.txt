@@ -1,0 +1,4 @@
+=-=-=-=-=-Relatório de erro da raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_13-55-16;
+- Termo da busca: centro-civico-sete-de-setembro;
+- Acervo com ocorrências que não pode ser acessado: 030015_03;

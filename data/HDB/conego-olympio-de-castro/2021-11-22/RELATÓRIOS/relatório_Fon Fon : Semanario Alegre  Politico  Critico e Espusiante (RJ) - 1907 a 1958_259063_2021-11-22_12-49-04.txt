@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_12-49-04
+- Termo da busca: "conego olympio de castro";
+ - Acervo: Fon Fon : Semanario Alegre  Politico  Critico e Espusiante (RJ) - 1907 a 1958;
+- Total de ocorrências: 2;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=259063&Pesq="conego%20olympio%20de%20castro"

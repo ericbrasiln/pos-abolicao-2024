@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_00-38-19
+- Termo da busca: "honorio menelik";
+- Acervo: Critica_RJ_1928_a_1930;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=372382&Pesq="honorio%20menelik"

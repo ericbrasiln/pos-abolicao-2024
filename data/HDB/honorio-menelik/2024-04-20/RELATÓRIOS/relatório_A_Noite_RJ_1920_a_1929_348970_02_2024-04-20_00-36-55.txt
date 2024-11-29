@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_00-36-55
+- Termo da busca: "honorio menelik";
+- Acervo: A_Noite_RJ_1920_a_1929;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=348970_02&Pesq="honorio%20menelik"

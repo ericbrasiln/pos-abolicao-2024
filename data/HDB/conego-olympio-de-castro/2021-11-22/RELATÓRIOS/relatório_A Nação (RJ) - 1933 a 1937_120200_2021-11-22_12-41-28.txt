@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_12-41-28
+- Termo da busca: "conego olympio de castro";
+ - Acervo: A Nação (RJ) - 1933 a 1937;
+- Total de ocorrências: 5;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=120200&Pesq="conego%20olympio%20de%20castro"

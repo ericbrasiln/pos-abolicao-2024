@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_00-25-56
+- Termo da busca: "honorio menelik";
+- Acervo: Diario_Carioca_RJ_1928_a_1929;
+- Total de ocorrências: 3;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=093092_01&Pesq="honorio%20menelik"

@@ -1,0 +1,9 @@
+=-=-=-=-=-Relatório geral da raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_13-06-33;
+- Local da busca: RJ;
+- Período da busca: 1910 - 1919;
+- Periódico da busca: Todos;
+- Termo da busca: "centro civico sete de setembro";
+- Lista de acervos com ocorrências (máx. de 100) e quantidade de ocorrências: ['"178691_04","387"', '"089842_02","122"', '"720100","121"', '"030015_03","79"', '"111988","74"', '"364568_10","67"', '"245038","65"', '"103730_04","62"', '"107670_01","49"', '"224782","43"', '"830380","39"', '"830291","33"', '"348970_01","29"', '"830135","25"', '"129054","23"', '"236403","18"', '"313394","12"', '"749036","8"', '"025909_01","6"', '"116300","6"', '"211702","6"', '"411957","5"', '"095648","2"', '"095648x","2"', '"259063","2"', '"338060","2"', '"083712","1"', '"100439_05","1"', '"110523_01","1"', '"153079","1"', '"241130","1"', '"342149","1"'];
+- Total de acervos com ocorrências (máx. de 100): 32
+- Informações adicionais: {'Total de páginas analisadas': '2.596.253', 'Total de Acervos analisados': '260', 'Total de ocorrências encontradas': '1.293', 'Número de páginas para uma ocorrência': 2007.9296210363495}

@@ -1,0 +1,4 @@
+=-=-=-=-=-Relatório de erro da raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-19_22-47-32;
+- Termo da busca: honorio-menelik;
+- Acervo com ocorrências que não pode ser acessado: 178691_04;

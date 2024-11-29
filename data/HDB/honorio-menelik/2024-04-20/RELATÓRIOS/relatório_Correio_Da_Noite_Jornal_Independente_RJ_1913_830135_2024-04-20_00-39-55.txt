@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_00-39-55
+- Termo da busca: "honorio menelik";
+- Acervo: Correio_Da_Noite_Jornal_Independente_RJ_1913;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=830135&Pesq="honorio%20menelik"

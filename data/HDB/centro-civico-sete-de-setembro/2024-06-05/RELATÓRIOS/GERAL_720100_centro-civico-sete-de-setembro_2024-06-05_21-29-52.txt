@@ -1,0 +1,5 @@
+=-=-=-=-=-Relatório geral da raspagem da HDB com lista de acervos-=-=-=-=-=
+- Data e hora da busca: 2024-06-05_21-29-52;
+- Termo da busca: centro-civico-sete-de-setembro;
+- Total de acervos: 1;
+- Lista de acervos: ['720100']

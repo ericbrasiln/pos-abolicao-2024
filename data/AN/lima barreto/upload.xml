@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpUpload>
+    <md>
+        <docId>-1</docId>
+        <title>Caerta de lima barreto </title>
+        <uploadTimestamp>0</uploadTimestamp>
+        <uploaderId>0</uploaderId>
+        <nrOfPages>1</nrOfPages>
+        <localFolder>/home/ebn/pCloudDrive/ACADEMIA/PÓS-DOC/José Honório Menelik/Fontes/Transkribus/lima barreto</localFolder>
+        <collectionList/>
+    </md>
+    <pageList>
+        <pages>
+            <fileName>carta lima barreto a menelik.png</fileName>
+            <pageXmlName>carta lima barreto a menelik.xml</pageXmlName>
+            <pageUploaded>false</pageUploaded>
+            <pageNr>1</pageNr>
+            <imgChecksum>c3a2fe5c8608e5e781651c58d87732c8</imgChecksum>
+            <pageXmlChecksum>271c9878460cfa1fd68b6a3daf2dd10a</pageXmlChecksum>
+        </pages>
+    </pageList>
+    <uploadId>324669</uploadId>
+    <created>2020-02-15T19:46:45.310-03:00</created>
+    <userId>54532</userId>
+    <userName>profericbrasil@gmail.com</userName>
+    <nrOfPagesTotal>1</nrOfPagesTotal>
+    <uploadType>JSON</uploadType>
+    <colId>60548</colId>
+</trpUpload>

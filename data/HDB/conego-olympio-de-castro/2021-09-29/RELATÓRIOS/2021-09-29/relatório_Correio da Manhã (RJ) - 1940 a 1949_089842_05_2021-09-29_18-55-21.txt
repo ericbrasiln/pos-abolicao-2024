@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-09-29_18-55-21
+- Termo da busca: "conego olympio de castro";
+ - Acervo: Correio da Manhã (RJ) - 1940 a 1949;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=089842_05&Pesq="conego%20olympio%20de%20castro"

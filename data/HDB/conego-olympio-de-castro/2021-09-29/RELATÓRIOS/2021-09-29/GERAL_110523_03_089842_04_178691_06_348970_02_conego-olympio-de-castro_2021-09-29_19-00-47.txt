@@ -1,0 +1,5 @@
+=-=-=-=-=-Relatório geral da raspagem da HDB com lista de acervos-=-=-=-=-=
+- Data e hora da busca: 2021-09-29_19-00-47;
+- Termo da busca: conego-olympio-de-castro;
+- Total de acervos: 4;
+- Lista de acervos: ['110523_03', '089842_04', '178691_06', '348970_02']

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_18-19-33
+- Termo da busca: "centro civico sete de setembro";
+- Acervo: O_Malho_RJ_1902_1953;
+- Total de ocorrências: 6;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=116300&Pesq="centro%20civico%20sete%20de%20setembro"

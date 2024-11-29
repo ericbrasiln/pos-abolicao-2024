@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_10-02-50
+- Termo da busca: "conego olympio de castro";
+ - Acervo: Jornal do Brasil (RJ) - 1930 a 1939;
+- Total de ocorrências: 129;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=030015_05&Pesq="conego%20olympio%20de%20castro"

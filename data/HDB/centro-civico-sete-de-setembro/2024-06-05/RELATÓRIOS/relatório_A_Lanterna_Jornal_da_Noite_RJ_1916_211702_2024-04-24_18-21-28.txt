@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_18-21-28
+- Termo da busca: "centro civico sete de setembro";
+- Acervo: A_Lanterna_Jornal_da_Noite_RJ_1916;
+- Total de ocorrências: 6;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=211702&Pesq="centro%20civico%20sete%20de%20setembro"

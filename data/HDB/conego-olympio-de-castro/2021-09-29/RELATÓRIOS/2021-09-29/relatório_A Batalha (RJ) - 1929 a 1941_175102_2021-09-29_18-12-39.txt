@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-09-29_18-12-39
+- Termo da busca: "conego olympio de castro";
+ - Acervo: A Batalha (RJ) - 1929 a 1941;
+- Total de ocorrências: 14;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=175102&Pesq="conego%20olympio%20de%20castro"

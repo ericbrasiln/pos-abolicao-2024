@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_12-51-53
+- Termo da busca: "conego olympio de castro";
+ - Acervo: O Imparcial : Diario Illustrado do Rio de Janeiro (RJ) - 1912 a 1919;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=107670_01&Pesq="conego%20olympio%20de%20castro"

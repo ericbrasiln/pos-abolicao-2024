@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-20_00-34-17
+- Termo da busca: "honorio menelik";
+- Acervo: A_Batalha_RJ_1929_a_1941;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=175102&Pesq="honorio%20menelik"

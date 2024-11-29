@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2021-11-22_12-49-28
+- Termo da busca: "conego olympio de castro";
+ - Acervo: A Esquerda (RJ) - 1928 a 1931;
+- Total de ocorrências: 2;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=297984&Pesq="conego%20olympio%20de%20castro"

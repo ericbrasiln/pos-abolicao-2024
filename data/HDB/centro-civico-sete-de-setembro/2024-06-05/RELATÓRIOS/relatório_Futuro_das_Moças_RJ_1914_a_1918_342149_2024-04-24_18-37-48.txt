@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2024-04-24_18-37-48
+- Termo da busca: "centro civico sete de setembro";
+- Acervo: Futuro_das_Moças_RJ_1914_a_1918;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=342149&Pesq="centro%20civico%20sete%20de%20setembro"
