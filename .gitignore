@@ -1,0 +1,11 @@
+# ignorar arquivos de imagem naa subpasta   u estão dentro da pasta data
+
+data/**/*.png
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.JPG
+
+
+# ignorar pastas mediacao e pasta biblio
+mediacao/
+biblio/
