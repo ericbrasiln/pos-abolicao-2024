@@ -9,3 +9,6 @@ data/**/*.JPG
 # ignorar pastas mediacao e pasta biblio
 mediacao/
 biblio/
+
+# ignorar arquivos venv
+codes/venv/

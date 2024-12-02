@@ -1,0 +1,342 @@
+---
+title: "José Honorio Menelik e o Centro Cívico Sete de Setembro"
+subtitle: "cidadania e educação no Rio de Janeiro (cc. 1900-1930)"
+author: "Eric Brasil"
+institute: "IHLM/UNILAB"
+date: "04-12-2024"
+lang: pt-BR
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    #incremental: true 
+    #chalkboard: 
+    #  buttons: true
+    preview-links: auto
+    center-title-slide: false
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+    logo: "https://www.ufrgs.br/gtep-anpuh/wp-content/uploads/2024/10/Titulo-1024x156.png"
+---
+
+## {background-color="#1c2b35"}
+
+![José Honorio Menelik, no Centro Cívico Sete de Setembro. _Fon Fon : Semanario Alegre  Politico  Critico e Espusiante_ (RJ) - 1907 a 1958, ano 1913, edicação 38, p. 63](/imgs/259063_15325.JPG)
+
+<small>[http://memoria.bn.br/docreader/259063/15325](http://memoria.bn.br/docreader/259063/15325)</small>
+
+---
+
+## {background-color="#1c2b35"}
+
+:::: {.columns}
+
+::: {.column width=40%}
+![Detalhe da imagem](/imgs/259063_15325_zoom.JPG)
+:::
+
+::: {.column width=60%}
+### José Honorio Menelik
+
+- **Nascimento**: 24 de abril de ????.
+- **Falecimento**: **28 de maio de 1936** (estimado com base na missa de sétimo dia marcada para 4 de junho de 1936).
+
+:::
+
+::::
+
+---
+
+## Como nos encontramos?  {background-color="#1c2b35"}
+
+- Esbarrei com seu nome ainda na pesquisa do Doutorado;
+- Era presidente do Centro Cívico Monteiro Lopes em 1911.
+- Encontrei centenas de referências a ele em jornais cariocas nas décadas de 1900 a 1930.
+
+:::notes
+Centro Cívico Monteiro Lopes  {background-color="#1c2b35"}
+
+O Centro Cívico criado em sua homenagem tinha como objetivo principal ser uma  sociedade de instrução, oferecendo cursos de alfabetização gratuitos à noite. Além disso,  buscavam valorizar atores abolicionistas, realizaram festa no dia 13 de maio, entraram na  justiça pedindo habeas corpus para duas _pretas_ acusadas de agressões físicas, construíram  relações com políticos republicanos, membros da Irmandade de Nossa Senhora do Rosário e São Benedito, sindicatos e associações operárias (O Paiz, 13/03/1911, 17/04/1911, Correio da Manhã 30/04/1911, 12/05/1911, Jornal do Brasil 10/05/1911, 21/08/1911, O Século 06/07/1911.).
+:::
+
+---
+
+## Objetivos {background-color="#1c2b35"}
+
+- Apresentar a atuação de Honório Menelik no Centro Cívico Sete de Setembro.
+- Discutir as estratégias de mobilização e a rede de apoio que sustentava suas ações em prol da educação popular.
+- Levantar caminhos abertos por sua trajetória para análises futuras.
+
+---
+
+## Algumas questões para desenvolvimento futuro  {background-color="#1c2b35"}
+
+- Como um **homem negro**, formado em direito, atua na sociedade carioca, mobilizando a educação e o combate ao analfabetismo como pautas centrais.
+- A aproximação de Menelik com os **discursos oficiais da República Brasileira**, especialmente o patriotismo.
+- A sustentação e expansão de redes de apoio, envolvendo variados atores das **classes dominantes cariocas** (como políticos, militares e comerciantes) e das **classes trabalhadoras e negras** na Primeira república.
+
+---
+
+## Metodologia  {background-color="#1c2b35"}
+
+### Pesquisa nos Jornais
+
+- Utilizou-se a ferramenta **pyHDB** ([https://ericbrasiln.github.io/pyHDB/](https://ericbrasiln.github.io/pyHDB/)), uma biblioteca desenvolvida para facilitar buscas na **Hemeroteca Digital Brasileira**.
+- As buscas foram realizadas com os termos:
+  - **"honorio menelik"**.
+  - **"centro cívico sete de setembro"**.
+- Abrangência: **todos os jornais disponíveis na Hemeroteca** e **todo o período de publicação**.
+
+---
+
+## Metodologia  {background-color="#1c2b35"}
+
+### Tratamento dos Dados
+
+- Após a busca, foi realizado o **OCR** (Reconhecimento Óptico de Caracteres) com o software **gImageReader** para extração de texto.
+- Os textos foram manualmente revisados e organizados mantendo a grafia original e salvos com os metadados de cada jornal.
+- Os **dados gerais** da busca (relatórios e arquivos CSV) estão disponíveis no **GitHub**: [link do repositório].
+
+---
+
+## Metodologia {background-color="#1c2b35"}
+
+### Pesquisa no SIAN e FamilySearch (em andamento)
+
+- A pesquisa no **SIAN** (Sistema de Informações do Arquivo Nacional) identificou uma **carta de Menelik para Lima Barreto** e um processo relativo a aluguel de imóvel.
+- Registros civis de familiares de Menelik foram encontrados no **FamilySearch**:
+  - **Francellina de Souza Ramos** (mãe).
+  - **Maria Ozoria Ramos** (irmã).
+
+---
+
+## {background-color="#1c2b35"}
+
+::: {.smaller}
+!["honorio menelik"- Quantidade de ocorrências por jornal](/imgs/oc_acervo_t10.png)
+:::
+
+---
+
+## {background-color="#1c2b35"}
+
+::: {.smaller}
+!["centro cívico sete de setembro"- Quantidade de ocorrências por jornal](/imgs/oc_acervo_t10_7set.png)
+:::
+
+---
+
+## {background-color="#1c2b35"}
+
+::: {.smaller}
+!["honorio menelik"- Quantidade de ocorrências por ano](/imgs/oc_ano.png)
+:::
+
+:::notes
+O jornal **O Paiz**, fundado em 1884, emergiu como uma importante plataforma republicana no Rio de Janeiro durante o final do século XIX, com uma linha editorial marcada pelo apoio à abolição da escravatura e pela promoção de valores republicanos. Sob a liderança de Quintino Bocaiúva, chefe do Partido Republicano, o periódico combinava uma abordagem política e social, frequentemente articulando os princípios do liberalismo com um discurso patriótico. 
+
+**O Paiz** era conhecido por sua defesa da abolição como um componente indispensável para a dignificação do Brasil frente ao cenário internacional. Apesar de evitar vincular explicitamente o republicanismo à abolição, o jornal frequentemente criticava partidos políticos que não assumiam um compromisso claro com a causa emancipacionista. Com uma tiragem significativa para a época (cerca de onze mil exemplares), o periódico tinha uma influência considerável no debate público, promovendo tanto o federalismo quanto o progresso moral e intelectual da nação.
+
+Seus artigos e editoriais refletem o envolvimento da elite republicana do Rio de Janeiro, composta majoritariamente por profissionais liberais como advogados, médicos, professores e engenheiros. **O Paiz** buscava construir uma narrativa histórica para a abolição, posicionando-se como um veículo de memória para o período e destacando o papel central da imprensa na construção de uma identidade nacional. A publicação contribuiu para o debate sobre questões fundamentais como a cidadania, a liberdade individual e a modernização do Brasil no contexto da transição entre Império e República.
+
+Aqui está a referência no formato ABNT para a tese:
+
+**SANTOS, Ana Carolina Mariz Mendes dos.** *O Paiz e a Gazeta Nacional: imprensa republicana e abolição. Rio de Janeiro, 1884-1888.* 2024. Tese (Doutorado em História) – Programa de Pós-Graduação em História, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2024.
+:::
+
+---
+
+## {background-color="#1c2b35"}
+
+::: {.smaller}
+!["centro cívico sete de setembro"- Quantidade de ocorrências por ano](/imgs/oc_ano_7set.png)
+:::
+
+---
+
+## Jornais com ocorrências de "honorio menelik" {background-color="#1c2b35"}
+
+:::: {.columns}
+
+::: {.column width=50%}
+- O Paiz (RJ)
+- O Seculo (RJ)
+- A Imprensa (RJ)
+- Gazeta de Noticias (RJ)
+- Jornal do Commercio Edição da Tarde (RJ)
+- A Epoca (RJ)
+- Jornal do Commercio (RJ)
+- Jornal do Brasil (RJ)
+:::
+
+::: {.column width=50%}
+- Correio da Manhã (RJ)
+- A Noticia (RJ)
+- Almanak Laemmert : (RJ)
+- Lanterna : Diario Vespertino (RJ)
+- O Sete de Setembro (RJ)
+- O Imparcial (RJ)
+- O Jornal (RJ)
+- Diario Carioca (RJ)
+:::
+
+::::
+
+---
+
+## Jornais com ocorrências de "honorio menelik" {background-color="#1c2b35"}
+
+:::: {.columns}
+
+::: {.column width=50%}
+- A Rua (RJ)
+- O Brasil (RJ)
+- A Manhã (RJ)
+- A Tribuna (RJ)
+- Diario de Noticias (RJ)
+- O Imparcial (RJ)
+- A Razão (RJ)
+- A Batalha (RJ)
+- Diario da Noite (RJ)
+:::
+
+::: {.column width=50%}
+- O Tiro (RJ)
+- Fon Fon (RJ)
+- Auto-Propulsão (RJ)
+- A Noite (RJ)
+- Critica (RJ)
+- Almanak Henault (RJ)
+- O Combate (RJ)
+- Correio Da Noite (RJ)
+- O Radical (RJ)
+:::
+
+::::
+
+---
+
+## Menelik?  {background-color="#1c2b35"}
+
+Menelik II foi imperador da Etiópia entre 1889 e 1913. Ainda em 1896,  quando disputava o trono, Menelik II e suas tropas venceram as forças coloniais italianas,  forçando-os a capitular do domínio da região. Esse personagem estaria presente no  imaginário das lutas anti-imperialistas na primeira metade do século XIX. Em Salvador foi  homenageado por clubes carnavalescos e também influenciou a imprensa negra paulista,  sendo o título de um importante jornal nas duas primeiras décadas do século XX (ALBUQUERQUE, 2007; CÔRTES, 2012).
+
+---
+
+## Arriscando uma cronologia  {background-color="#1c2b35"}
+
+- 1902:
+
+---
+
+## Redes de sociabilidade e apoio com as elites republicanas  {background-color="#1c2b35"}
+
+- **Políticos republicanos**: presença constante em eventos cívicos e festas republicanas, além de homenagens a figuras importantes da República.
+- **Militares**: participação em eventos militares e defesa da pátria.
+- **Comerciantes e industriais**: apoio financeiro para a manutenção do Centro Cívico.
+- **Imprensa**: cobertura constante das atividades do Centro Cívico e participação direta nos eventos.
+
+---
+
+## Redes de sociabilidade e apoio com as classes trabalhadoras e negras  {background-color="#1c2b35"}
+
+- **Aproximação com associações operárias**
+- **Relações com a Irmandade de Nossa Senhora do Rosário e São Benedito**: aproximação com o cônego Olympio de Castro;
+- **Presença em eventos de celebração do 13 de maio** por vários anos;
+- **Participação como jurado em concursos carnavalescos** ao lado de Francisco Guimarães, o Vagalume.
+- **Presença em evento da Confederação dos homens de cor**.
+
+---
+
+## Redes de sociabilidade e apoio com as classes trabalhadoras e negras  {background-color="#1c2b35"}
+
+- **Jurado ao lado de Hemetério dos Santos** em caso com teor racial.
+
+>
+
+## Tudo para a educação popular  {background-color="#1c2b35"}
+
+- **Cursos noturnos variados com centenas de inscritos**.
+- **Funcionam por vários anos**.
+- **Sucursais em diferentes bairros**.
+
+---
+
+## Guerra contra o analfabetismo  {background-color="#1c2b35"}
+
+Jornal do Commercio Edição da Tarde, ed. 59, p.6, http://memoria.bn.br/docreader/111988/8116
+
+>"O Sr. Dr. Fausto Ferraz realizou, hontem à noite, no Centro Civico Sete de Setembro a sua annunciada conferencia sobre o analphabetismo entre nós.
+>
+>Presidio o acto o Senador Lauro Sodré que pronunciou eloquente discurso em torno do assumpto.
+
+---
+
+## Guerra contra o analfabetismo  {background-color="#1c2b35"}
+
+Jornal do Commercio Edição da Tarde, ed. 59, p.6, http://memoria.bn.br/docreader/111988/8116
+
+>O Dr. Honorio Menelik tambem fundamentou em longo discurso a necessidade da fundação de um “comité”, afim de ser mantida, uma propaganda permanente da instrucção popular e concluio lendo os nomes das pessoas que deveriam compór o mesmo “comité”. Ao terminar a mesma leitura foi ouvida uma prolongada salva de palmas."
+
+---
+
+## Guerra contra o analfabetismo  {background-color="#1c2b35"}
+
+Dentre os membros do comite, além de ilustres políticos e militares, estava o cônego Olympio de Castro e o Professor Hemetério dos Santos.
+
+![]()
+
+---
+
+## Juri de um caso racial  {background-color="#1c2b35"}
+
+_O Radical_, 1937, ed.696 , p. 2, http://memoria.bn.br/docreader/830399/13401
+
+>O advogado Costa Pinto, na hora do sorteio conseguiu collocar no jury cinco homens de côr, entre os quaes os srs: Soares Dias, Honorio Menelik e Hemeterio dos Santos.
+>[...]
+>
+>Mas, a certa altura, depois de uma evocação á Princeza Isabel, a Patrocinio e Joaquim Nabuco, Costa Pinto gritou:
+
+---
+
+## Juri de um caso racial  {background-color="#1c2b35"}
+
+_O Radical_, 1937, ed.696 , p. 2, http://memoria.bn.br/docreader/830399/13401
+
+>— Srs, jurados. Nós sabemos que nem tudo quanto occorre figura nos inqueritos policiaes. Eu preciso revelar a V.V. Excias o seguinte: quando a victima deu com o tamanco na cara do réo presente, disse o seguinte:
+>
+>Toma, negro! Antes do 13 de Maio negro apanhava de chicote. Agora não ha mais tronco, mas eu tenho aqui este tamanco p'ra te castigar.
+
+---
+
+## Juri de um caso racial  {background-color="#1c2b35"}
+
+_O Radical_, 1937, ed.696 , p. 2, http://memoria.bn.br/docreader/830399/13401
+
+>Resultado: os pretos do Conselho de sentença se entreolharam, e um delles, Honorio Menelik, disse para o seu visinho de carreira:
+>
+>— Assim tambem, não. Afinal, negro não é cachorro.
+>
+>E na sala secreta derrotaram os brancos, votando a absolvição do accusado que aquelle “true” racial de Costa Pinto salvava, à mingua da provas no processo que era o de um crime atroz.
+
+---
+
+::: {.smaller}
+
+## Carta de Lima Barreto a José Honorio Menelik  {background-color="#1c2b35"}
+
+Rio de Janeiro, 10 de abril de 1915
+
+Meu caro Menelik
+
+Accuso recebido o teu ofício em que me é comunicado a minha escolha para ser, do Centro, patrono de propaganda atciva e [dep????].
+
+[????]-me, meu caro Menelik, que fiquei envaidecido com a escolha, pela qual só tenho que agradecer a ti e à digna congregação de que és presidente, que tão alto me teve em seu [????] conceito.
+
+Aceito solene e de [????] a distinção e, se deus quiser, lá estarei em 21 próximo, afim de tomar posse de tão honroso cargo.
+
+Reitero os meus agradecimentos e fico sempre a teu dispor.
+
+A [?] e Amigo
+
+Lima Barreto
+
+:::

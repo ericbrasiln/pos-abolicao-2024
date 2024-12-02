@@ -1,0 +1,14 @@
+/* Alinha o título do slide de título gerado pelo YAML à direita */
+.reveal .slides .title-slide h1 {
+    text-align: right;
+}
+
+/* Alinha o subtítulo à direita */
+.reveal .slides section[data-state="title-slide"] h2 {
+    text-align: right;
+}
+
+/* Alinha o autor e data à direita */
+.reveal .slides section[data-state="title-slide"] p {
+    text-align: right;
+}
