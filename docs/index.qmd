@@ -1,5 +1,7 @@
 ---
 title: "José Honorio Menelik e o Centro Cívico Sete de Setembro"
+title-slide-attributes: 
+  data-background-color: "#1c2b35"
 subtitle: "cidadania e educação no Rio de Janeiro (cc. 1900-1930)"
 author: "Eric Brasil"
 institute: "IHLM/UNILAB"
@@ -18,9 +20,15 @@ format:
     logo: "https://www.ufrgs.br/gtep-anpuh/wp-content/uploads/2024/10/Titulo-1024x156.png"
 ---
 
+## Acesse essa apresentação em: {background-color="#1c2b35"}
+
+![](imgs/slides.png)
+
+---
+
 ## {background-color="#1c2b35"}
 
-![José Honorio Menelik, no Centro Cívico Sete de Setembro. _Fon Fon : Semanario Alegre  Politico  Critico e Espusiante_ (RJ) - 1907 a 1958, ano 1913, edicação 38, p. 63](/imgs/259063_15325.JPG)
+![José Honorio Menelik, no Centro Cívico Sete de Setembro. _Fon Fon : Semanario Alegre  Politico  Critico e Espusiante_ (RJ) - 1907 a 1958, ano 1913, edicação 38, p. 63](https://raw.githubusercontent.com/ericbrasiln/pos-abolicao-2024/refs/heads/main/docs/imgs/259063_15325.JPG)
 
 <small>[http://memoria.bn.br/docreader/259063/15325](http://memoria.bn.br/docreader/259063/15325)</small>
 
@@ -31,7 +39,7 @@ format:
 :::: {.columns}
 
 ::: {.column width=40%}
-![Detalhe da imagem](/imgs/259063_15325_zoom.JPG)
+![Detalhe da imagem](https://raw.githubusercontent.com/ericbrasiln/pos-abolicao-2024/refs/heads/main/docs/imgs/259063_15325_zoom.JPG)
 :::
 
 ::: {.column width=60%}
@@ -112,7 +120,7 @@ O Centro Cívico criado em sua homenagem tinha como objetivo principal ser uma  
 ## {background-color="#1c2b35"}
 
 ::: {.smaller}
-!["honorio menelik"- Quantidade de ocorrências por jornal](/imgs/oc_acervo_t10.png)
+!["honorio menelik"- Quantidade de ocorrências por jornal](https://raw.githubusercontent.com/ericbrasiln/pos-abolicao-2024/refs/heads/main/docs/imgs/oc_acervo_t10.png)
 :::
 
 ---
@@ -120,7 +128,7 @@ O Centro Cívico criado em sua homenagem tinha como objetivo principal ser uma  
 ## {background-color="#1c2b35"}
 
 ::: {.smaller}
-!["centro cívico sete de setembro"- Quantidade de ocorrências por jornal](/imgs/oc_acervo_t10_7set.png)
+!["centro cívico sete de setembro"- Quantidade de ocorrências por jornal](https://raw.githubusercontent.com/ericbrasiln/pos-abolicao-2024/refs/heads/main/docs/imgs/oc_acervo_t10_7set.png)
 :::
 
 ---
@@ -128,7 +136,7 @@ O Centro Cívico criado em sua homenagem tinha como objetivo principal ser uma  
 ## {background-color="#1c2b35"}
 
 ::: {.smaller}
-!["honorio menelik"- Quantidade de ocorrências por ano](/imgs/oc_ano.png)
+!["honorio menelik"- Quantidade de ocorrências por ano](https://raw.githubusercontent.com/ericbrasiln/pos-abolicao-2024/refs/heads/main/docs/imgs/oc_ano.png)
 :::
 
 :::notes
@@ -148,7 +156,7 @@ Aqui está a referência no formato ABNT para a tese:
 ## {background-color="#1c2b35"}
 
 ::: {.smaller}
-!["centro cívico sete de setembro"- Quantidade de ocorrências por ano](/imgs/oc_ano_7set.png)
+!["centro cívico sete de setembro"- Quantidade de ocorrências por ano](https://raw.githubusercontent.com/ericbrasiln/pos-abolicao-2024/refs/heads/main/docs/imgs/oc_ano_7set.png)
 :::
 
 ---
@@ -221,12 +229,6 @@ Menelik II foi imperador da Etiópia entre 1889 e 1913. Ainda em 1896,  quando d
 
 ---
 
-## Arriscando uma cronologia  {background-color="#1c2b35"}
-
-- 1902:
-
----
-
 ## Redes de sociabilidade e apoio com as elites republicanas  {background-color="#1c2b35"}
 
 - **Políticos republicanos**: presença constante em eventos cívicos e festas republicanas, além de homenagens a figuras importantes da República.
@@ -245,12 +247,6 @@ Menelik II foi imperador da Etiópia entre 1889 e 1913. Ainda em 1896,  quando d
 - **Presença em evento da Confederação dos homens de cor**.
 
 ---
-
-## Redes de sociabilidade e apoio com as classes trabalhadoras e negras  {background-color="#1c2b35"}
-
-- **Jurado ao lado de Hemetério dos Santos** em caso com teor racial.
-
->
 
 ## Tudo para a educação popular  {background-color="#1c2b35"}
 
@@ -281,8 +277,6 @@ Jornal do Commercio Edição da Tarde, ed. 59, p.6, http://memoria.bn.br/docread
 ## Guerra contra o analfabetismo  {background-color="#1c2b35"}
 
 Dentre os membros do comite, além de ilustres políticos e militares, estava o cônego Olympio de Castro e o Professor Hemetério dos Santos.
-
-![]()
 
 ---
 
@@ -319,9 +313,7 @@ _O Radical_, 1937, ed.696 , p. 2, http://memoria.bn.br/docreader/830399/13401
 
 ---
 
-::: {.smaller}
-
-## Carta de Lima Barreto a José Honorio Menelik  {background-color="#1c2b35"}
+##  {background-color="#1c2b35"}
 
 Rio de Janeiro, 10 de abril de 1915
 
@@ -339,4 +331,18 @@ A [?] e Amigo
 
 Lima Barreto
 
-:::
+---
+
+## **Contatos**  {background-color="#1c2b35"}
+
+- [Site: ericbrasil.com.br](https://ericbrasil.com.br)
+- [Email: profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)
+- [Linktree: linktr.ee/ericbrasil](https://linktr.ee/ericbrasil)
+
+<img src="imgs/contato.png" width="200px">
+
+---
+
+## **Obrigado!**  {background-color="#1c2b35"}
+
+
